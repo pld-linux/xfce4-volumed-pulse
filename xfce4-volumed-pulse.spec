@@ -2,7 +2,7 @@ Summary:	Volume management daemon for XFCE
 Summary(pl.UTF-8):	Demon poziomu dźwięku XFCE
 Name:		xfce4-volumed-pulse
 Version:	0.2.3
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		Applications/System
 Source0:	http://archive.xfce.org/src/apps/xfce4-volumed-pulse/0.2/%{name}-%{version}.tar.bz2
